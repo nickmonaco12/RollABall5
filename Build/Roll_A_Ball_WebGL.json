@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BME4401-Roll_A_Ball_Game",
+"dataUrl": "Roll_A_Ball_WebGL.data.unityweb",
+"wasmCodeUrl": "Roll_A_Ball_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll_A_Ball_WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
